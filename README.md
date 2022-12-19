@@ -1,2 +1,2 @@
 # Automated-Lamp
- Automated lamp designed to with several third party integrations like Siri
+ Automated lamp designed to work with several third party integrations like Siri
